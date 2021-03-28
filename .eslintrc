@@ -21,6 +21,9 @@
     }
   },
   "rules": {
+    "indent": "off",
+    "react/jsx-indent": "off",
+    "react/jsx-indent-props": "off",
     "comma-dangle": "off",
     "jsx-a11y/anchor-is-valid": "off",
     "max-len": "off",
